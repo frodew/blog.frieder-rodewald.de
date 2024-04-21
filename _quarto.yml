@@ -2,18 +2,26 @@ project:
   type: website
 
 website:
-  title: "Personal_blog"
+  title: "get sh*t done - the blog"
+  site-url: https://blog.frieder-rodewald.de
+  description: "a project aimed to get sh*t done"
+
   navbar:
+    search: true
+
+  page-footer:
+    left: 'by <a href="https://frieder-rodewald.de/">Frieder Rodewald</a>'
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/FriederRodewald
+      - icon: rss
+        href: index.xml
 format:
   html:
-    theme: cosmo
-    css: styles.css
-
-
-
+    pagetitle: "blog > get sh*t done - {{< meta title >}}"
+    theme: style.scss
+    code-link: true
+    code-fold: true
+    code-tools:
+      toggle: true
+      source: false

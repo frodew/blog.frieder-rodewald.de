@@ -1,0 +1,231 @@
+/*-- scss:defaults --*/
+
+// Define fonts
+
+/* sora-100 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 100;
+  src: url("fonts/sora-v12-latin-100.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* sora-200 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 200;
+  src: url("fonts/sora-v12-latin-200.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* sora-300 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 300;
+  src: url("fonts/sora-v12-latin-300.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* sora-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/sora-v12-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* sora-500 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 500;
+  src: url("fonts/sora-v12-latin-500.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* sora-600 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 600;
+  src: url("fonts/sora-v12-latin-600.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* sora-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 700;
+  src: url("fonts/sora-v12-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* sora-800 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 800;
+  src: url("fonts/sora-v12-latin-800.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* jetbrains-mono-300 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 300;
+  src: url("fonts/jetbrains-mono-v18-latin-300.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* jetbrains-mono-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/jetbrains-mono-v18-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* jetbrains-mono-italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 400;
+  src: url("fonts/jetbrains-mono-v18-latin-italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* jetbrains-mono-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 700;
+  src: url("fonts/jetbrains-mono-v18-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+// set font defaults
+$font-family-sans-serif: "Sora";
+$font-family-monospace: "JetBrains Mono";
+
+//
+// Color system
+//
+
+$white: #f9fafb;
+$gray-100: #f8f9fa;
+$gray-200: #f8f5f0;
+$gray-300: #dfd7ca;
+$gray-400: #ced4da;
+$gray-500: #98978b;
+$gray-600: #8e8c84;
+$gray-700: #495057;
+$gray-800: #3e3f3a;
+$gray-900: #212529;
+$black: #282826;
+
+$blue: #91a8ec;
+$indigo: #ad91fe;
+$purple: #3f2390;
+$pink: #d591fe;
+$red: #ff767d;
+$orange: #f69239;
+$yellow: #f7cb45;
+$green: #38ee81;
+$teal: #3f81a2;
+$cyan: #32fbe2;
+
+// Colors
+$primary: $yellow;
+$secondary: $purple;
+$success: $green;
+$info: $blue;
+$warning: $orange;
+$danger: $red;
+
+$body-bg: $yellow;
+$body-color: $black;
+$link-color: $purple;
+
+$headings-color: #000000;
+
+$min-contrast-ratio: 2;
+
+// Active search result
+$component-active-color: $black;
+$component-active-bg: $indigo;
+
+$border-color: $black;
+$input-border-color: $black;
+$border-width: 2px;
+
+/*-- scss:rules --*/
+
+div.quarto-post .thumbnail img {
+  border-radius: 1em;
+  margin-top: 0em;
+}
+
+div.quarto-post .listing-categories .listing-category {
+  color: $black;
+  border: 2px solid $black;
+}
+
+.quarto-title .quarto-categories .quarto-category {
+  color: $black;
+  border: 2px solid $black;
+}
+
+div.quarto-post {
+  border-bottom: 2px solid $border-color;
+}
+
+.navbar-brand {
+  font-size: 2.1rem;
+  font-weight: 800;
+}
+
+.navbar-brand-container {
+  max-width: calc(100% - 35px);
+}
+
+.navbar-title {
+  color: $secondary;
+}
+
+div.quarto-post .metadata {
+  display: none;
+}
+
+// .list.quarto-listing-default div:last-of-type .thumbnail img {
+//   margin-top: -1em;
+// }
+
+#title-block-header.quarto-title-block.default .description {
+  display: none;
+}
+
+.nav-footer {
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+@media (max-width: 575.98px) {
+  .navbar-brand {
+    font-size: 1.1rem;
+  }
+
+  .nav-footer {
+    font-size: 1rem;
+  }
+
+  .nav-footer-center {
+    display: none;
+  }
+}
