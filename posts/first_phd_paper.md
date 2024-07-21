@@ -1,12 +1,12 @@
 ---
-title: "My first PhD paper"
+title: "Getting started writing - my first PhD paper"
 description: "We just had a retreat with our chair and had a couple of hours for a writing project. I tried to type something to get into writing - this is what I came up with to get me started writing."
 date: 2024-07-21
 author: Frieder Rodewald
 categories: [personal, writing]
 ---
 
-# My first PhD paper: To measure behavior - How does self-reported privacy behavior compare to behavior derived from donated data
+# Let's Get Started
 
 Here comes the first sentence.
 And a second one.
@@ -42,9 +42,11 @@ And still, especially if we are interested in (privacy) settings, trackers or ev
 But data donation can.
 And that's why I want to use it.
 
+::: {.callout-note}
 \[And at this point did I start to write a first draft of an introduction to my first PhD paper :)\]
+:::
 
-# For Context
+# For Context - What is this?
 
 I try to trick myself when I have to write something, but I do not feel like writing.
 This method works best for me.
