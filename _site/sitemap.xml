@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.frieder-rodewald.de/posts/first_phd_paper.html</loc>
-    <lastmod>2024-07-21T11:36:12.439Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.frieder-rodewald.de/index.html</loc>
-    <lastmod>2024-05-15T07:48:57.971Z</lastmod>
+    <loc>https://blog.frieder-rodewald.de/posts/vegan_gulash.html</loc>
+    <lastmod>2024-11-22T23:23:17.248Z</lastmod>
   </url>
   <url>
     <loc>https://blog.frieder-rodewald.de/posts/first_conference.html</loc>
-    <lastmod>2024-05-15T07:48:57.971Z</lastmod>
+    <lastmod>2024-11-23T00:28:12.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.frieder-rodewald.de/index.html</loc>
+    <lastmod>2024-11-23T00:28:12.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.frieder-rodewald.de/posts/first_phd_paper.html</loc>
+    <lastmod>2024-11-23T00:28:12.328Z</lastmod>
   </url>
 </urlset>

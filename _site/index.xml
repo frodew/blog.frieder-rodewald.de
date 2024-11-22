@@ -9,8 +9,60 @@
 <link>https://blog.frieder-rodewald.de/</link>
 <atom:link href="https://blog.frieder-rodewald.de/index.xml" rel="self" type="application/rss+xml"/>
 <description>a project aimed to get sh*t done</description>
-<generator>quarto-1.4.466</generator>
-<lastBuildDate>Sat, 20 Jul 2024 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Fri, 22 Nov 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Recipe - Vegan Goulash</title>
+  <dc:creator>Frieder Rodewald</dc:creator>
+  <link>https://blog.frieder-rodewald.de/posts/vegan_gulash.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="what-you-need-to-buy" class="level1">
+<h1>What You Need (to Buy)</h1>
+<p>This should be good for 4 people, maybe more. Or you’ll have some leftovers the next day :)</p>
+<ul>
+<li>1 kilogram of onions</li>
+<li>0.5 kilograms of potatoes</li>
+<li>One pack of soy strips</li>
+<li>One or two cans of jackfruit in brine (optional - buy at an Asian market)</li>
+<li>Two packs of vegan landjäger (optional - buy at a health food store “Reformhaus”)</li>
+<li>1 tube/glass of mustard</li>
+<li>1 tube/glass of tomato paste</li>
+<li>1 pack of soy cream</li>
+<li>Half a pack of vegan butter</li>
+<li>5 bay leaves</li>
+<li>1 pack of sweet paprika powder</li>
+<li>Half a pack of smoked paprika powder</li>
+<li>Half a pack of hot paprika powder</li>
+<li>More spices as you see fit (at least some pepper and salt, maybe even smoked salt)</li>
+<li>A loaf of bread (optional - but you’ll love it)</li>
+</ul>
+<p>You might also need some oil and some soy sauce.</p>
+<ol type="1">
+<li>Cut the onions and put them into the largest pot you have with some butter (the more, the tastier).</li>
+<li>Put a tablespoon of vegetable salt and two tablespoons of sweet paprika on the soy strips. Pour some boiling water over it and let it soak for 10 minutes.</li>
+<li>Prepare a (spicy) marinade with some oil, the paprika powders, some soy sauce, and more spices if you want. When the soy strips are ready, mix them with the marinade and put everything in a frying pan (with enough butter). Start at a low temperature and gradually increase it until the soy is almost burned.</li>
+<li>Open the jackfruit cans, squeeze them a bit, and shred them by hand until they have a fibrous texture. It’s best to toss the jackfruit in the remaining marinade.</li>
+<li>Right before the soy is ready, add the mustard and the tomato paste to the onions, mix everything, and let it cook for around 2 minutes, stirring occasionally. Then add the jackfruit.</li>
+<li>Add the soy and some boiling water to the pot until it’s nearly full. Then cut the potatoes and add them.</li>
+<li>Shred the landjäger and add the soy cream. Let everything boil for an hour - the longer, the better.</li>
+<li>Enjoy it with some bread; it’s even better the next day! :D</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>personal</category>
+  <category>cooking</category>
+  <category>recipe</category>
+  <guid>https://blog.frieder-rodewald.de/posts/vegan_gulash.html</guid>
+  <pubDate>Fri, 22 Nov 2024 23:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Getting started writing - my first PhD paper</title>
   <dc:creator>Frieder Rodewald</dc:creator>
